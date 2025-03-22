@@ -1,6 +1,9 @@
 # mundo-js
 Este repositorio contiene métodos, tutoriales, recursos, etc... sobre JavaScript. Sirve como una ayuda de memoria personal.
 
+# Resumen JS
+JS es un len...
+
 # Métodos
 - some.js: Comprueba si al menos un elemento del array cumple con la condicion dada. Devuelve un valor booleano (true o false).
 .
